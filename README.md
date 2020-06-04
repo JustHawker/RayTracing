@@ -12,6 +12,11 @@ _This scene also available to render in program_
 ![Alt-текст](https://raw.githubusercontent.com/JustHawker/RayTracing/master/lab1/imgs/random.bmp "Random scene")
 
 # Perfomance measure
+## Hardware
+- CPU: Intel® Core™ i5-2500 Processor (6M Cache, up to 3.70 GHz)
+- GPU: GeForce GTX 1060 6GB
+
+## Results
 | Resolution | GPU execution time | CPU execution time | Speedup |
 |:----------------:|:---------:|:----------------:|:----------------:|
 |800x600  |0.10856 |6.82700	 |62.88607|
