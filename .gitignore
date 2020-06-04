@@ -263,8 +263,6 @@ __pycache__/
 # EasyBMP files
 src/EasyBMP/
 
-# Images
-imgs/
 
 # Visual Studio project files
 *.vcxproj
